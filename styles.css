@@ -1,3 +1,4 @@
+/*  tag selector(using tag changing the colours) */
 body{
     background-color:#EAF6F6;
 }
@@ -9,6 +10,19 @@ hr{
     background: none;
     width: 6%;
 }
-h1,h3{
-    color: #2f6d6d;
+/* class selector(creating and using class changing the colours)*/
+.skill{
+    color: mediumvioletred;
+}
+.hobby{
+    color:crimson;
+}
+.education{
+    color:gold;
+}
+.feedback{
+    color:orchid;
+}
+.circular{
+    border-radius: 100%;
 }
